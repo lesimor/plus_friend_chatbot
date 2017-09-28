@@ -1,0 +1,1 @@
+FUZZYMATCH = FuzzyMatch.new(Sentence.all, :read => :question)
